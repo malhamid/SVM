@@ -1,0 +1,7 @@
+to run the python environemnt, please follow the steps below: 
+1. on Terminal, type:
+source activate py
+2. navigate to your folder
+3. run the python command using the keyword python.
+
+End
