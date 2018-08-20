@@ -1,3 +1,4 @@
+Very basic example of using SVM, for linear classifications between tow set folds of data.
 to run the python environemnt, please follow the steps below: 
 1. on Terminal, type:
 source activate py
